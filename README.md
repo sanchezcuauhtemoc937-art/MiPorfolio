@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="img/Nuvis.png" width="300">
+  <img src="Anuviss.png" width="1000">
 </p>
